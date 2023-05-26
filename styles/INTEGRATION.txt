@@ -1,0 +1,8 @@
+HTML, la structuration du web : Multimédia et intégration / Chapitre 1 - Introduction au Multimédia et à l’intégration / Section 1 - Présentation
+Présentation
+Jusqu'ici, nous avons vu et utilisé beaucoup de texte dans ce cours, mais le web serait vraiment ennuyeux s'il n'utilisait que du texte. Voyons ensemble la manière de le rendre plus vivant avec plus de contenu intéressant ! Ce module explore l'utilisation d'HTML pour inclure du contenu multimédia dans vos pages web. Cela comprend les différentes manières d'ajouter des images, d'intégrer de la vidéo, de l'audio et même des pages web entières.
+
+Prérequis
+Pour commencer ce module dans de bonnes conditions, vous devriez posséder les connaissances de base du HTML comme il est recommandé dans le module : Introduction au HTML. Nous vous recommandons de passer du temps sur cette introduction en premier lieu puis de repasser ici pour continuer.
+
+Note : Si vous travaillez sur une tablette, ordinateur ou autre périphérique où vous n'auriez pas la capacité de créer vos propres fichiers, sachez que vous pouvez tester (la plupart) de vos lignes de code sur des programmes en ligne comme JSBin.

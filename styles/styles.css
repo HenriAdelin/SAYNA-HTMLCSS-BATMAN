@@ -1,0 +1,178 @@
+:root
+{
+    --yellow-color:#ffff00;
+    --yellow-light:#f8f184;
+    --blue-color:#19587d;
+    --white-color:#ffffff; 
+    --gradien-white:#9f9787;  
+    --gradien-red :#890008;
+    --black-color:#00000089;
+    --gris-color:#C4C4C4;
+    --gris-fonce:#19587D;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#hero
+{
+  background-image: url(../Illustrations/Bathome1.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  height: 800px;
+  width: auto;
+}
+h1
+{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 36px;
+    font-weight: 400;
+    margin-top: 10%;
+}
+.prenon
+{
+    margin-top: 0;
+}
+Bouttons
+{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    font-weight: 400;
+}
+h2
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 20px;
+} 
+.contener
+{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid var(--gradien-white);
+}
+.contente
+{
+    width: 100%;
+    margin: 0 auto;
+}
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 30px;
+}
+ul{
+    list-style: none;
+}
+nav ul a
+{
+    color: var(--white-color);
+    font-size: 25px;
+    font-weight: 300;
+}
+nav ul a:hover
+{
+    color: var(--yellow-color);
+}
+.intro
+{
+    text-align: center;
+    padding-top: 30%;    
+}
+p
+{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+figure ul li 
+{
+    display: inline-block;
+    text-align: center;
+    padding-right: 40px;
+}
+.fleche
+{
+    margin-top: 10%;
+    width: 5%;
+    height: auto;
+}
+.btn
+{
+    text-decoration: none;
+    color: var(--white-color);  
+    font-size: 22px;
+    padding: 10px 20px;
+    background: linear-gradient(80deg, var(--gradien-white), var(--gradien-red));
+    box-shadow: var(--black-color) 5px 5px 60px;
+    margin: 30px ;
+}
+.btnn
+{
+    text-decoration: none;
+    color: var(--white-color);  
+    font-size: 22px;
+    padding: 10px 20px;
+    background: linear-gradient(40deg, #EDDEBF, #19587D);
+    box-shadow: var(--black-color) 5px 5px 60px;
+    margin: 30px ;
+}
+.media
+{
+display:flex;
+align-items:center;
+justify-content: space-between;
+padding-top: 30px;
+}
+.med
+{
+    display:flex;
+    align-items: center;
+}
+span
+{
+    color:var(--yellow-color);
+}
+.Bathome_ba2
+{
+   display: flex;
+   justify-content: center;
+}
+.contact
+{ 
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   background-color:var(--gris-color);
+}
+.lettre
+{
+    display: grid;
+    justify-content: space-between
+    align-items: center;
+    
+}
+.A2
+{
+    justify-self: center;
+}
+.A3
+{
+    justify-self: end;
+}
+.pied
+{ 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+ cite
+ {
+    text-align: center;
+ }
